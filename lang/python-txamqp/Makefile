@@ -10,6 +10,7 @@ include $(TOPDIR)/rules.mk
 PKG_NAME:=txAMQP
 PKG_VERSION:=0.6.2
 PKG_RELEASE:=1
+PKG_MAINTAINER:=Nate <natester@gmail.com>
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
 PKG_SOURCE_URL:=https://pypi.python.org/packages/63/96/13eabebc8c9970a320c2abd2458fdfe64dabfe60bf676200a183835aa3fa/$(PKG_NAME)-$(PKG_VERSION).tar.gz
